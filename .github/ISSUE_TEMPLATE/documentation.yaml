@@ -15,7 +15,7 @@ body:
       label: "💭 Description"
       description: "Please provide a clear and concise explanation of the problem or the information that you wish to include in the documentation."
       placeholder: "Documentation should not ..."
-   - type: textarea
+  - type: textarea
     id: screenshots
     validations:
       required: true
@@ -36,5 +36,5 @@ body:
     attributes:
       label: "🏢 Have you read the Code of Conduct?"
       options:
-        - label: "I have read the [Code of Conduct]()"
+        - label: "I have read the [Code of Conduct](https://github.com/KiranAminPanjwani/MLSC-DSU-Learning-Contributing-Resources/blob/main/CODE_OF_CONDUCT.md)"
           required: true
