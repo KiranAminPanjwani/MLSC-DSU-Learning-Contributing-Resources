@@ -1,0 +1,40 @@
+name: "📚 Documentation"
+description: "Found an issue in the documentation? You can use this one!"
+title: "📚 Documentation: "
+labels: [documentation]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to make our documentation better 🙏
+  - type: textarea
+    id: issue-description
+    validations:
+      required: true
+    attributes:
+      label: "💭 Description"
+      description: "Please provide a clear and concise explanation of the problem or the information that you wish to include in the documentation."
+      placeholder: "Documentation should not ..."
+   - type: textarea
+    id: screenshots
+    validations:
+      required: true
+    attributes:
+      label: "📸 Screenshots"
+      description: "Attach screenshots to show where the problem lies and include a link to the relevant document."
+      placeholder: "Reference: ..."
+  - type: checkboxes
+    id: no-duplicate-issues
+    attributes:
+      label: "👀 Have you spent some time to check if this issue has been raised before?"
+      description: "Did you search for a similar issue on Google or check our past bug reports for any similar cases?"
+      options:
+        - label: "I checked and didn't find similar issue"
+          required: true
+  - type: checkboxes
+    id: read-code-of-conduct
+    attributes:
+      label: "🏢 Have you read the Code of Conduct?"
+      options:
+        - label: "I have read the [Code of Conduct]()"
+          required: true
