@@ -1,5 +1,5 @@
 name: "🐛 Bug Report"
-description: "Submit a bug report to help us improve"
+description: "Submit a bug report to help us improve the project"
 title: "🐛 Bug Report: "
 labels: [bug]
 body:
@@ -45,5 +45,5 @@ body:
     attributes:
       label: "🏢 Have you read the Code of Conduct?"
       options:
-        - label: "I have read the [Code of Conduct]()"
+        - label: "I have read the [Code of Conduct](https://github.com/KiranAminPanjwani/MLSC-DSU-Learning-Contributing-Resources/blob/main/CODE_OF_CONDUCT.md)"
           required: true
