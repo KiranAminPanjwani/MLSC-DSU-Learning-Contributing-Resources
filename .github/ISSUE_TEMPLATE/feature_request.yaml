@@ -1,0 +1,49 @@
+name: 💡 Feature
+description: "Propose a new feature or an idea for the project."
+title: "💡 Feature: "
+labels: [feature]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out our feature request form 😊
+  - type: textarea
+    id: feature-description
+    validations:
+      required: true
+    attributes:
+      label: "🔖 Feature description"
+      description: "A clear and concise description of the new feature you want to include."
+      placeholder: "You should add ..."
+  - type: textarea
+    id: pitch
+    validations:
+      required: true
+    attributes:
+      label: "🎤 Pitch"
+      description: "Please explain why this feature should be implemented and how it would be used. Add examples, if applicable."
+      placeholder: "In my use-case, ..."
+  - type: textarea
+    id: screenshots
+    validations:
+      required: true
+    attributes:
+      label: "📸 Reference Screenshots/Clips"
+      description: "If this feature has already been implemented somewhere, please provide a picture or video reference."
+      placeholder: "Reference: ..."
+#       write "Not Any" if not applicable.
+  - type: checkboxes
+    id: no-duplicate-issues
+    attributes:
+      label: "👀 Have you spent some time to check if this issue has been raised before?"
+      description: "Did you search for a similar issue on Google or check our past bug reports for any similar cases?"
+      options:
+        - label: "I checked and didn't find similar issue"
+          required: true
+  - type: checkboxes
+    id: read-code-of-conduct
+    attributes:
+      label: "🏢 Have you read the Code of Conduct?"
+      options:
+        - label: "I have read the [Code of Conduct](https://github.com/KiranAminPanjwani/MLSC-DSU-Learning-Contributing-Resources/blob/main/CODE_OF_CONDUCT.md)"
+          required: true
