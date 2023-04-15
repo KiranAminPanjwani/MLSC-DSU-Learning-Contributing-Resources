@@ -28,9 +28,8 @@ We strive to keep MLSC open and inclusive to everyone, regardless of their backg
 
 <h1 align=center> OUR VALUABLE CONTRIBUTORS✨</h1>
 <p align="center">
-<a href="https://github.com/KiranAminPanjwani/MLSC-DSU-Learning-Contributing-Resources/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=KiranAminPanjwani/MLSC-DSU-Learning-Contributing-Resources" />
-</a>
-</p>
+  <a href="https://github.com/KiranAminPanjwani/MLSC-DSU-Learning-Contributing-Resources/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=KiranAminPanjwani/MLSC-DSU-Learning-Contributing-Resources" />
+</a></p>
 
 #
