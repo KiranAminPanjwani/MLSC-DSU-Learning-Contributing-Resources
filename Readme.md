@@ -1,7 +1,8 @@
 # Microsoft Learn Student Community - DHA Suffa University Github Repository
 ## Your Space to Learn, Contribute and Grow
 <div>
-  <img src="https://user-images.githubusercontent.com/90326051/232242499-80d2e0e0-6999-4db1-85db-a05a55e6d472.png" alt="alt text" width="400" align="right"/>
+ <!-- <img src="https://user-images.githubusercontent.com/90326051/232242499-80d2e0e0-6999-4db1-85db-a05a55e6d472.png" alt="alt text" width="400" align="right"/> -->
+  <img src="https://user-images.githubusercontent.com/90326051/232279051-4015a977-8061-4dc1-a9b3-dd88710dbf35.png" alt="alt text" width="250" align="right"/>
   <p>
 👋 Welcome to the MLSC community! We're thrilled to have you here and excited about the possibility of making this space even better. We believe that everyone should have fun, learn, and grow while contributing to this project.
 
@@ -22,6 +23,7 @@ We want to invite you to contribute to MLSC in any way that you feel comfortable
 Before getting started, please make sure to read our [contributing_guidelines.md](https://github.com/KiranAminPanjwani/MLSC-DSU-Learning-Contributing-Resources/blob/main/Contributing_Guidlines.md) to ensure a smooth and enjoyable experience for everyone.
 
 We strive to keep MLSC open and inclusive to everyone, regardless of their background or identity. That's why we ask everyone to please read and follow our [Code of Conduct](https://github.com/KiranAminPanjwani/MLSC-DSU-Learning-Contributing-Resources/blob/main/CODE_OF_CONDUCT.md), helping us to maintain a welcoming and friendly community.
+
 
 
 #
