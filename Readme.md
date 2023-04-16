@@ -2,7 +2,8 @@
 ## Your Space to Learn, Contribute and Grow
 <div>
  <!-- <img src="https://user-images.githubusercontent.com/90326051/232242499-80d2e0e0-6999-4db1-85db-a05a55e6d472.png" alt="alt text" width="400" align="right"/> -->
-  <img src="https://user-images.githubusercontent.com/90326051/232279051-4015a977-8061-4dc1-a9b3-dd88710dbf35.png" alt="alt text" width="250" align="right"/>
+  <img src="https://user-images.githubusercontent.com/90326051/232284231-07232185-093d-499d-bcf5-17fca4275491.png" alt="alt text" width="250" align="right"/>
+
   <p>
 👋 Welcome to the MLSC community! We're thrilled to have you here and excited about the possibility of making this space even better. We believe that everyone should have fun, learn, and grow while contributing to this project.
 
