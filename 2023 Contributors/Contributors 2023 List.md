@@ -6,5 +6,5 @@
 > Contributor Name | Link to portfolio / CV / LinkedIn / GitHub | Interests/Experience
 > ---------------------- | ------------------------| ---------
 > [SAMPLE] Im a Writer | [myportfolio.me](http://example.com) | Blockchain documentation, user guides, Python
-> [SAMPLE] Im a Writer#2 | [myportfolio2.me](http://example2.com) | API documentation, user guides, C++
+> Muhammad Arsal Naveed | https://www.linkedin.com/in/muhammad-arsal-naveed-592b6b237/ | Data Analysis, Data Science, SQL, Tableau, PowerBI, Excel, C/C++
 > 
