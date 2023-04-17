@@ -8,3 +8,4 @@
 > [SAMPLE] Im a Writer | [myportfolio.me](http://example.com) | Blockchain documentation, user guides, Python
 > Muhammad Arsal Naveed | https://www.linkedin.com/in/muhammad-arsal-naveed-592b6b237/ | Data Analysis, Data Science, SQL, Tableau, PowerBI, Excel, C/C++
 > Muhammad Ahmed | https://www.linkedin.com/in/muhammad-ahmed02/ | Python, Django, Data Science, Cloud Computing, Web Development.
+> Manahil Mehmood | https://www.linkedin.com/in/manahil-mehmood-21a406241 | C/C++, Java, HTML/CSS
