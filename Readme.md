@@ -25,6 +25,13 @@ Before getting started, please make sure to read our [contributing_guidelines.md
 
 We strive to keep MLSC open and inclusive to everyone, regardless of their background or identity. That's why we ask everyone to please read and follow our [Code of Conduct](https://github.com/KiranAminPanjwani/MLSC-DSU-Learning-Contributing-Resources/blob/main/CODE_OF_CONDUCT.md), helping us to maintain a welcoming and friendly community.
 
+#
 
+<h1 align=center> OUR VALUABLE CONTRIBUTORS✨ </h1>
+<p align="center">
+<a href="https://github.com/KiranAminPanjwani/Python/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=KiranAminPanjwani/MLSC-DSU-Learning-Contributing-Resources"/>
+</a>
+</p>
 
-
+#
