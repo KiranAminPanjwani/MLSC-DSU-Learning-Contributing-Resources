@@ -28,7 +28,7 @@ We strive to keep MLSC open and inclusive to everyone, regardless of their backg
 
 ## Step to Contribute:
 
-1) Go to the following link: [@023 Contributors.md](https://github.com/KiranAminPanjwani/MLSC-DSU-Learning-Contributing-Resources/tree/main/2023%20Contributors).
+1) Go to the following link: [2023 Contributors.md](https://github.com/KiranAminPanjwani/MLSC-DSU-Learning-Contributing-Resources/tree/main/2023%20Contributors).
 2) Edit your name in the list if you are interested in contributing.
 3) After entering your name in the list, create a pull request and wait for it to be merged.
 
