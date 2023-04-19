@@ -1,0 +1,6 @@
+The following link is the official flutter documentation and it is considered as one of the
+best documentation written because of how beginner friendly it is.
+The documentation is so well written that a beginner can easily understand the concepts
+just by reading it and without getting any tutorial help. 
+
+Link -> https://docs.flutter.dev/
