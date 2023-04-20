@@ -10,4 +10,3 @@
 > Muhammad Ahmed | https://www.linkedin.com/in/muhammad-ahmed02/ | Python, Django, Data Science, Cloud Computing, Web Development.
 > Manahil Mehmood | https://www.linkedin.com/in/manahil-mehmood-21a406241 | C/C++, Java, HTML/CSS
 > Shiraz Pirzada | https://www.linkedin.com/in/shiraz-pirzada/ | C#, Java, Dot Net Framework (MVC & MVVM Architecture), MSSQL, Knockout JS.
-> Ashar | https://www.linkedin.com/in/asharr/ | Dart, Java, Postman, MySQL, Flutter, Firebase, Cloud Computing, DevOps. 
