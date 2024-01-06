@@ -13,3 +13,4 @@
 > Ashar | https://www.linkedin.com/in/asharr/ | Dart, Java, Postman, MySQL, Flutter, Firebase, Cloud Computing, DevOps.
 > Parsanta lal | https://www.linkedin.com/in/parsanta-rajpal/ | C, JAVA, HTML/CSS, Javascript, REACTJS
 > Salman Ali | https://www.linkedin.com/in/salman-ali-rajput-005963ba/ | Dart, Flutter, Java, C, Python
+> Asharib Ahmed | https://www.linkedin.com/in/salman-ali-rajput-005963ba/ | Dart, Flutter, Java, C, Python
