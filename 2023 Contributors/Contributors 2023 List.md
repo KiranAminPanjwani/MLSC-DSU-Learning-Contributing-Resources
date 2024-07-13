@@ -1,4 +1,4 @@
-# Developers interested in participating in MLSC-DSU-Learning-Contributing-Resources in the 2023
+# Developers interested in participating in MLSC-DSU-Learning-Contributing-Resources in the 2023-24
 
 > Read our [Contributing-guidelines](https://github.com/KiranAminPanjwani/MLSC-DSU-Learning-Contributing-Resources/blob/main/Contributing_Guidlines.md) for more information about how to make contribution.
 >
@@ -13,3 +13,4 @@
 > Ashar | https://www.linkedin.com/in/asharr/ | Dart, Java, Postman, MySQL, Flutter, Firebase, Cloud Computing, DevOps.
 > Parsanta lal | https://www.linkedin.com/in/parsanta-rajpal/ | C, JAVA, HTML/CSS, Javascript, REACTJS
 > Salman Ali | https://www.linkedin.com/in/salman-ali-rajput-005963ba/ | Dart, Flutter, Java, C, Python
+> Sagar Chhabriya | [LinkedIn](https://www.linkedin.com/in/sagar-chhabriya/) | `HTML/CSS` `Java` `Python` `MySQL` `MongoDB` `ML` |
